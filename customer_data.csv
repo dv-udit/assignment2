@@ -1,0 +1,22 @@
+customer_id,name,age,purchase_history
+1,John Doe,32,1,4,8
+2,Jane Smith,45,3,6,9
+3,Michael Johnson,28,2,5,7
+4,Emily Davis,50,1,4,8
+5,Robert Wilson,35,3,6,9
+6,Emma Taylor,22,2,5,7
+7,David Anderson,40,1,4,8
+8,Sarah Brown,29,3,6,9
+9,Matthew Thompson,37,2,5,7
+10,Olivia Martinez,33,1,4,8
+11,William Garcia,26,3,6,9
+12,Sophia Robinson,48,2,5,7
+13,James Lee,31,1,4,8
+14,Isabella Rodriguez,39,3,6,9
+15,Joseph Hernandez,42,2,5,7
+16,Emily Wright,27,1,4,8
+17,David Martin,30,3,6,9
+18,Sophia Anderson,36,2,5,7
+19,Oliver Thomas,43,1,4,8
+20,Ava White,34,3,6,9
+
